@@ -9,4 +9,9 @@ function start() {
 
 function func02() {
   console.log("Anden funcction");
+  func03();
+}
+
+function func03() {
+  console.log("Tredje function");
 }
